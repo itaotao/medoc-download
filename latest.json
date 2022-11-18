@@ -8,6 +8,6 @@
   },
   "repository": "https://github.com/itaotao/MeDoc",
   "mac":"",
-  "win":"",
+  "win":"https://github.com/itaotao/MeDoc/releases/download/v1.0.1/me-doc-setup-1.0.1.exe",
   "linux":""
   }
